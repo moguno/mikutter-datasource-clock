@@ -3,7 +3,7 @@ slug: :mikutter-datasource-clock
 depends:
   mikutter: 3.2.0
   plugin: []
-version: '0.0.1'
+version: '0.0.2'
 author: moguno
 name: mikutter-datasource-clock
 description: みくったーちゃんが時刻を教えてくれるデータソースを提供します。
